@@ -5,3 +5,5 @@ ultralytics
 opencv-python     # Streamlit overlay
 streamlit
 requests
+streamlit
+matplotlib      # simple bar-chart
