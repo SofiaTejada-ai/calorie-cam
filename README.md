@@ -1,4 +1,4 @@
-# 🍽️ Calorie-Cam
+# 🍽Calorie-Cam
 
 Upload a photo of your meal → get per-item calorie estimates in seconds.  
 Powered by FastAPI + YOLOv8 (segmentation) on the back-end and Streamlit on the front-end.
@@ -7,7 +7,7 @@ Powered by FastAPI + YOLOv8 (segmentation) on the back-end and Streamlit on the 
 
 ---
 
-## 🚀 Quick start
+## Quick start
 
 ```bash
 git clone https://github.com/<you>/calorie-cam.git
