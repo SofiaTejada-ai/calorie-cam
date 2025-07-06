@@ -7,3 +7,4 @@ streamlit
 requests
 streamlit
 matplotlib      # simple bar-chart
+opencv-python-headless

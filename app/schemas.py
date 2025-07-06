@@ -1,5 +1,5 @@
+from typing import List, Optional
 from pydantic import BaseModel
-from typing import List
 
 class Item(BaseModel):
     name: str
@@ -9,3 +9,4 @@ class Item(BaseModel):
 class Prediction(BaseModel):
     items: List[Item]
     total_calories: float
+    overlay_png: Optional[str]  # ← new field (base-64 string)
