@@ -3,7 +3,7 @@
 Upload a photo of your meal to get per-item calorie estimates in seconds.  
 Powered by FastAPI + YOLOv8 (segmentation) on the back-end and Streamlit on the front-end.
 
-![demo](docs/demo.gif)
+![demo](docs/demo.png)
 
 ---
 
